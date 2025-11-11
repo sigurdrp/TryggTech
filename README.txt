@@ -1,2 +1,1 @@
-10.91.146.37 <SUBSCRIBER>
-10.91.146.74 <PUBLISHER>
+lagd av førsteklassinger, stjel med omhu
