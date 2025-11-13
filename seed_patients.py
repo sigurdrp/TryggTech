@@ -51,7 +51,7 @@ if __name__ == "__main__":
     for n in NAMES:
         upsert_patient(n)
 
-    print("\nStreaming updates")
+    print("\nStreaming updates until ctrl+C")
     try:
         while True:
             upsert_patient(random.choice(NAMES))
